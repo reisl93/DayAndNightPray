@@ -1,0 +1,6 @@
+D:\InHisLight\DayAndNight\DayAndNightPray\DayAndNightPrayWeb\bin\DayAndNightPrayWeb.dll.config
+D:\InHisLight\DayAndNight\DayAndNightPray\DayAndNightPrayWeb\bin\DayAndNightPrayWeb.dll
+D:\InHisLight\DayAndNight\DayAndNightPray\DayAndNightPrayWeb\bin\DayAndNightPrayWeb.pdb
+D:\InHisLight\DayAndNight\DayAndNightPray\DayAndNightPrayWeb\obj\Debug\DayAndNightPrayWeb.csprojResolveAssemblyReference.cache
+D:\InHisLight\DayAndNight\DayAndNightPray\DayAndNightPrayWeb\obj\Debug\DayAndNightPrayWeb.dll
+D:\InHisLight\DayAndNight\DayAndNightPray\DayAndNightPrayWeb\obj\Debug\DayAndNightPrayWeb.pdb
