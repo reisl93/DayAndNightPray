@@ -58,6 +58,8 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Properties\PublishProfiles\DayAndNightPray.pubxml" />
+    <None Include="Properties\PublishProfiles\LittleFish.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
